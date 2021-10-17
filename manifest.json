@@ -7,7 +7,7 @@
 	"description": "Search Wikipedia in every language from the address bar and context menu.",
 	"options_page": "settings.html",
 	"omnibox": {
-		"keyword": "wiki"
+		"keyword": "w"
 	},
 	"permissions": [
 		"contextMenus",
