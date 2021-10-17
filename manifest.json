@@ -1,9 +1,9 @@
 {
 "manifest_version": 2,
-	"name": "Wikipedia Search",
-	"version": "10.1",
+	"name": "Wikipedia Search Simplified",
+	"version": "1.0",
 	"author": "Corbin Davenport",
-	"homepage_url": "https://github.com/corbindavenport/wikipedia-search",
+	"homepage_url": "https://github.com/ZauberViolino/wikipedia-search",
 	"description": "Search Wikipedia in every language from the address bar and context menu.",
 	"options_page": "settings.html",
 	"omnibox": {
