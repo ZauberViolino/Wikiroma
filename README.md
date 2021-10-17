@@ -1,11 +1,11 @@
 Wikipedia Search
 ================
 
-This extension adds Wikipedia searching capabilities to web browsers. To perform a search, just type 'wiki' in your browser's address bar, then press the Tab key, then type the name of the article you want. Live suggestions from Wikipedia are displayed as you type. You can also highlight any word or phrase on the web, and an option to search in Wikipedia will appear in the context menu.
+This extension is forked from [corbindavenport/wikipedia-search](https://github.com/corbindavenport/wikipedia-search). It simplifies the keyword from 'wiki' to 'w'.
+
+This extension adds Wikipedia searching capabilities to web browsers. To perform a search, just type 'w' in your browser's address bar, then press the Tab key, then type the name of the article you want. Live suggestions from Wikipedia are displayed as you type. You can also highlight any word or phrase on the web, and an option to search in Wikipedia will appear in the context menu.
 
 Your device's language is used as the default for searches, but you can also change it to any of the 300+ languages supported by Wikipedia.
-
-[![Download for Chrome](https://corbin.io/img/chrome-button.png)](https://chrome.google.com/webstore/detail/wikipedia-search/lipakennkogpodadpikgipnogamhklmk)
 
 __Wikipedia is a trademark of the Wikimedia Foundation. Wikipedia Search is in no way affiliated with Wikipedia or the Wikimedia Foundation.__
 
